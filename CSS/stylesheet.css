@@ -1,0 +1,84 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+img {
+    max-width: 100%;
+}
+
+/* header section start here */
+.header-section {
+    background-color: #085070;
+    /* width: 1200px; */
+    
+}
+.puppylover {
+    font-size: 40px;
+    color: #ffff;
+    text-align: center;
+    padding: 25px;
+}
+/* header section end here */
+
+/* three puppies in basket start here */
+.banner {
+    /* width: 1200px; */
+    width: 100%;
+}
+.three-puppies img {
+    width: 100%;
+}
+/* three puppies in basket end here */
+
+/* the three column section start here */
+.three-column {
+    display: flex;
+    width: 960px;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.puppy-missing {
+    width: 310px;
+    background-color: #f04d65;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 30px;
+}
+/* the three column section end here */
+
+/* more-puppies text section start here */
+.more-puppies {
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 60px;
+}
+/* more-puppies text section end here  */
+
+/* two column section start here */
+.two-column {
+    display: flex;
+    width: 960px;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.brown-puppy {
+    margin-right: 50px;
+}
+/* two column section end here  */
+
+/* footer start here */
+.foooter-section {
+    width: 100%;
+    background-color: #085070;
+    margin-top: 40px;
+}
+.developer-name {
+    color: #ffff;
+    font-size: 55px;
+    text-align: center;
+    padding: 60px 0 80px;
+    font-weight: bold;
+}
+/* footer end here */
